@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/franmillone" target="blank"><img src="https://img.shields.io/twitter/follow/franmillone?logo=twitter&style=for-the-badge" alt="franmillone" /></a> </p>
 
-- 👨‍💻 I’m currently working at **Southern Frogs 🐸** and [Conosoft ASD](www.conosoft.com.ar) 
+- 👨‍💻 I’m currently working at **Southern Frogs 🐸** and [Conosoft ASD](https://www.conosoft.com.ar) 
 
 - 🌱 I’m currently learning **Every new shiny thing I can put my hands on. ( This month was Flutter )**
 
