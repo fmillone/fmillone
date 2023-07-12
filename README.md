@@ -7,9 +7,9 @@
 
 - 👨‍💻 I’m currently working at **Southern Frogs 🐸** and [Conosoft ASD](https://www.conosoft.com.ar) 
 
-- 🌱 I’m currently learning **Every new shiny thing I can put my hands on. ( This month was Flutter )**
+- 🌱 I’m currently learning **Every new shiny thing I can put my hands on. ( This month was Rust )**
 
-- 📫 How to reach me **Probably in Linkedin**
+- 📫 How to reach me **you can [email me](mailto:francisco.ladislao.millone@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
