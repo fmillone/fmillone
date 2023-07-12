@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Every new shiny thing I can put my hands on. ( This month was Rust )**
 
-- 📫 How to reach me **you can [email me](mailto:francisco.ladislao.millone@gmail.com)**
+- 📝 From time to time I write articles on [fmillone.dev](https://fmillone.dev)
+
+- 📫 How to reach me? **you can [email me](mailto:francisco.ladislao.millone@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
